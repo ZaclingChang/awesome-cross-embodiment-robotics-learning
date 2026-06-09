@@ -1,0 +1,1142 @@
+rank,word,count
+1,transfer,61
+2,policy,57
+3,cross-embodiment,51
+4,locomotion,49
+5,manipulation,43
+6,whole-body,32
+7,scaling,27
+8,human,27
+9,interface,20
+10,dexterous,19
+11,representation,18
+12,dataset,18
+13,foundation,17
+14,action,17
+15,benchmark,17
+16,imitation,16
+17,multi-embodiment,15
+18,latent,14
+19,generalist,14
+20,paper,14
+21,morphology,12
+22,adaptation,11
+23,unified,11
+24,reinforcement,10
+25,diffusion,10
+26,skill,10
+27,shared,10
+28,aware,10
+29,visual,9
+30,morphology-aware,9
+31,cross-embodied,8
+32,policies,8
+33,data,8
+34,grasp,8
+35,representations,7
+36,transformer,7
+37,space,7
+38,generation,7
+39,teleoperation,7
+40,zero-shot,7
+41,directly,7
+42,vla,7
+43,important,7
+44,useful,7
+45,open x-embodiment,6
+46,body,6
+47,multi-embodiment locomotion,6
+48,policy transfer,6
+49,latent action,6
+50,motion,6
+51,legged,6
+52,morphology-agnostic,6
+53,cross-embodiment manipulation,6
+54,scalable,6
+55,videos,6
+56,egocentric,6
+57,multi-task,5
+58,behavior-skill,5
+59,pretraining,5
+60,behavior,5
+61,object-centric,5
+62,strong,5
+63,cross-humanoid,5
+64,tracking,5
+65,interaction,5
+66,key,5
+67,open,4
+68,scaling cross-embodied,4
+69,visual imitation,4
+70,body cage,4
+71,human-humanoid,4
+72,human-humanoid cross-embodiment,4
+73,cross-embodiment behavior-skill,4
+74,behavior-skill transfer,4
+75,policy run,4
+76,run end-to-end,4
+77,end-to-end multi-embodiment,4
+78,fast adaptation,4
+79,behavior foundation,4
+80,action diffusion,4
+81,dexterous manipulation,4
+82,cross-embodiment dexterous,4
+83,dexterous grasp,4
+84,grasp generation,4
+85,scaling laws,4
+86,legged locomotion,4
+87,policy diverse,4
+88,co-design,4
+89,actions,4
+90,data collection,4
+91,manipulation navigation,4
+92,navigation locomotion,4
+93,cross-embodiment generalization,4
+94,generalist policy,4
+95,zero-shot cross-embodiment,4
+96,gemini robotics,4
+97,cross-humanoid locomotion,4
+98,scalable whole-body,4
+99,cross-embodiment transfer,4
+100,versatile,4
+101,unified policy,4
+102,video,4
+103,egocentric video,4
+104,whole-body teleoperation,4
+105,whole-body controller,4
+106,tasks,4
+107,incompatible,4
+108,real-world,4
+109,baseline,4
+110,shows,4
+111,recent,4
+112,prior,4
+113,reward,4
+114,x-embodiment,3
+115,embodiments,3
+116,scale,3
+117,contact,3
+118,everyday,3
+119,extreme,3
+120,randomization,3
+121,generalizable,3
+122,graph-based,3
+123,diverse,3
+124,abstraction,3
+125,world,3
+126,interfaces,3
+127,collection,3
+128,robotics,3
+129,discovery,3
+130,wild,3
+131,agile,3
+132,visuomotor,3
+133,loco-manipulation,3
+134,open-world,3
+135,structured,3
+136,graph,3
+137,survey,3
+138,one-policy,3
+139,framing,3
+140,evidence,3
+141,early,3
+142,relevant,3
+143,priors,3
+144,reference,3
+145,plus,3
+146,design,3
+147,showing,3
+148,aligning,3
+149,rt-x,2
+150,x-embodiment rt-x,2
+151,octo,2
+152,cross-embodied crossformer,2
+153,being-h0,2
+154,rdt2,2
+155,gr00t,2
+156,manipulator-independent,2
+157,manipulator-independent representations,2
+158,representations visual,2
+159,xirl,2
+160,xskill,2
+161,whirl,2
+162,inhomogeneous,2
+163,structure-aware transformer,2
+164,transformer policy,2
+165,policy inhomogeneous,2
+166,inhomogeneous multi-task,2
+167,multi-task reinforcement,2
+168,cage,2
+169,policy human,2
+170,human policy,2
+171,human-humanoid cross-embodiment behavior-skill,2
+172,cross-embodiment behavior-skill transfer,2
+173,humanoidexo,2
+174,humanx,2
+175,zerowbc,2
+176,uniskill,2
+177,run,2
+178,end-to-end,2
+179,policy run end-to-end,2
+180,run end-to-end multi-embodiment,2
+181,end-to-end multi-embodiment locomotion,2
+182,h-zero,2
+183,hugwbc,2
+184,fast,2
+185,whole-body pretraining,2
+186,pretraining fast,2
+187,any2any,2
+188,morphology-aware policy,2
+189,transfer embodiments,2
+190,locoformer,2
+191,unified latent,2
+192,latent space,2
+193,space cross-embodiment,2
+194,latent action diffusion,2
+195,one-policy-fits-all,2
+196,x-sim,2
+197,contact-conditioned locomotion,2
+198,locomotion policies,2
+199,cross-hand,2
+200,vision-language-action,2
+201,cross-hand latent,2
+202,latent representation,2
+203,representation vision-language-action,2
+204,egomimic,2
+205,object-centric dexterous,2
+206,manipulation human,2
+207,human motion,2
+208,motion data,2
+209,history-conditioned,2
+210,dexformer cross-embodied,2
+211,cross-embodied dexterous,2
+212,manipulation history-conditioned,2
+213,history-conditioned transformer,2
+214,human-like,2
+215,cedex cross-embodiment,2
+216,generation scale,2
+217,scale human-like,2
+218,human-like contact,2
+219,contact representations,2
+220,cross-embodiment dexterous grasp,2
+221,dexterous grasp generation,2
+222,unimorphgrasp,2
+223,robomind,2
+224,humanoid-x uh-1,2
+225,phuma,2
+226,anybody,2
+227,laws,2
+228,laws locomotion,2
+229,locomotion scale,2
+230,scale extreme,2
+231,extreme randomization,2
+232,morphology-control-aware,2
+233,mcarl morphology-control-aware,2
+234,morphology-control-aware reinforcement,2
+235,reinforcement generalizable,2
+236,generalizable quadrupedal,2
+237,quadrupedal locomotion,2
+238,unifying,2
+239,multi-loco unifying,2
+240,unifying multi-embodiment,2
+241,multi-embodiment legged,2
+242,locomotion reinforcement,2
+243,reinforcement augmented,2
+244,augmented diffusion,2
+245,unilegs,2
+246,gcnt graph-based,2
+247,graph-based transformer,2
+248,transformer policies,2
+249,policies morphology-agnostic,2
+250,morphology-agnostic reinforcement,2
+251,body transformer,2
+252,transformer leveraging,2
+253,leveraging policy,2
+254,network,2
+255,articulated-body dynamics,2
+256,dynamics network,2
+257,network improves,2
+258,improves policy,2
+259,cross-embodied co-design,2
+260,co-design dexterous,2
+261,dexterous hands,2
+262,nervenet,2
+263,problem formulations,2
+264,formulations transfer,2
+265,transfer taxonomy,2
+266,multi-embodiment foundations,2
+267,transfer distillation,2
+268,distillation fast,2
+269,representation transfer,2
+270,transfer skill,2
+271,skill abstraction,2
+272,abstraction world,2
+273,human-prior,2
+274,human-to-robot human-prior,2
+275,human-prior transfer,2
+276,cross-embodiment locomotion,2
+277,locomotion whole-body,2
+278,retrieval,2
+279,manipulation visual,2
+280,imitation retrieval,2
+281,unified interfaces,2
+282,interfaces latent,2
+283,latent actions,2
+284,actions retargeting,2
+285,teleoperation data,2
+286,datasets,2
+287,datasets benchmarks,2
+288,morphology-aware scaling,2
+289,strong auxiliary,2
+290,auxiliary baselines,2
+291,surveys overviews,2
+292,year index,2
+293,papers,2
+294,read papers,2
+295,reading,2
+296,phd reading,2
+297,reading packs,2
+298,contribution guide,2
+299,x-embodiment datasets,2
+300,datasets rt-x,2
+301,navigation,2
+302,cross-embodied policy,2
+303,policy manipulation,2
+304,locomotion aviation,2
+305,manipulation navigation locomotion,2
+306,extreme cross-embodiment,2
+307,generalization,2
+308,being-h0 scaling,2
+309,scaling human-centric,2
+310,human-centric cross-embodiment,2
+311,open-source,2
+312,octo open-source,2
+313,open-source generalist,2
+314,umi,2
+315,rdt2 exploring,2
+316,exploring scaling,2
+317,scaling limit,2
+318,limit umi,2
+319,umi data,2
+320,data zero-shot,2
+321,pre-training,2
+322,x-vla generalist,2
+323,generalist agent,2
+324,agent cross-embodiment,2
+325,cross-embodiment pre-training,2
+326,gr00t open,2
+327,open foundation,2
+328,foundation generalist,2
+329,gemini,2
+330,robotics bringing,2
+331,bringing physical,2
+332,physical world,2
+333,enables,2
+334,h-zero cross-humanoid,2
+335,locomotion pretraining,2
+336,pretraining enables,2
+337,enables few-shot,2
+338,few-shot transfer,2
+339,whole-body cross-humanoid,2
+340,any2any cross-embodiment,2
+341,transfer whole-body,2
+342,whole-body tracking,2
+343,policy worlds,2
+344,worlds scalable,2
+345,scalable unified,2
+346,policy versatile,2
+347,versatile locomotion,2
+348,morphologies,2
+349,get morphologies,2
+350,morphologies zero-shot,2
+351,zero-shot recovery,2
+352,recovery unified,2
+353,long-context,2
+354,locoformer generalist,2
+355,generalist omni-bodied,2
+356,omni-bodied locomotion,2
+357,locomotion long-context,2
+358,long-context adaptation,2
+359,xirl cross-embodiment,2
+360,cross-embodiment inverse,2
+361,inverse reinforcement,2
+362,xskill skill,2
+363,skill discovery,2
+364,imitating,2
+365,uniskill imitating,2
+366,imitating human,2
+367,videos cross-embodiment,2
+368,cross-embodiment skill,2
+369,skill representations,2
+370,retrieval execution,2
+371,execution everyday,2
+372,everyday human,2
+373,transfer decomposed,2
+374,decomposed adversarial,2
+375,adversarial demonstration,2
+376,whirl imitate,2
+377,imitate human,2
+378,videos wild,2
+379,exoskeleton,2
+380,humanoidexo scalable,2
+381,whole-body manipulation,2
+382,manipulation wearable,2
+383,wearable exoskeleton,2
+384,skills,2
+385,humanx agile,2
+386,agile generalizable,2
+387,generalizable interaction,2
+388,interaction skills,2
+389,skills human,2
+390,zerowbc natural,2
+391,natural visuomotor,2
+392,visuomotor directly,2
+393,directly human,2
+394,human egocentric,2
+395,humanplus shadowing,2
+396,shadowing imitation,2
+397,imitation humans,2
+398,universal,2
+399,human-to-humanoid,2
+400,omnih2o universal,2
+401,universal dexterous,2
+402,dexterous human-to-humanoid,2
+403,human-to-humanoid whole-body,2
+404,controller,2
+405,hugwbc unified,2
+406,unified whole-body,2
+407,promptable,2
+408,bfm-zero promptable,2
+409,promptable behavioral,2
+410,behavioral foundation,2
+411,foundation unsupervised,2
+412,unsupervised reinforcement,2
+413,reinforcement versatile,2
+414,versatile dynamic,2
+415,dynamic robust,2
+416,robust bipedal,2
+417,bipedal locomotion,2
+418,phuma physically-grounded,2
+419,physically-grounded locomotion,2
+420,locomotion dataset,2
+421,simulation,2
+422,x-sim cross-embodiment,2
+423,cross-embodiment object-centric,2
+424,object-centric simulation,2
+425,egomimic scaling,2
+426,scaling imitation,2
+427,imitation egocentric,2
+428,improved,2
+429,generalizable manipulation,2
+430,manipulation improved,2
+431,improved diffusion,2
+432,diffusion policies,2
+433,unimorphgrasp diffusion,2
+434,diffusion morphology-awareness,2
+435,morphology-awareness cross-embodiment,2
+436,cross-embodiment interface,2
+437,interface unifying,2
+438,unifying representation,2
+439,representation world,2
+440,diffusion cross-embodiment,2
+441,one-policy-fits-all manipulation,2
+442,manipulation policy,2
+443,policy single,2
+444,single generalist,2
+445,language-action,2
+446,language-action pre-training,2
+447,pre-training enables,2
+448,enables zero-shot,2
+449,mirage cross-embodiment,2
+450,cross-embodiment zero-shot,2
+451,zero-shot policy,2
+452,transfer visual,2
+453,visual adaptation,2
+454,twist teleoperated,2
+455,teleoperated whole-body,2
+456,whole-body imitation,2
+457,twist2 scalable,2
+458,scalable portable,2
+459,portable holistic,2
+460,holistic data,2
+461,homie loco-manipulation,2
+462,loco-manipulation isomorphic,2
+463,isomorphic exoskeleton,2
+464,exoskeleton cockpit,2
+465,trill deep,2
+466,deep imitation,2
+467,imitation loco-manipulation,2
+468,loco-manipulation human,2
+469,human teleoperation,2
+470,ace cross-platform,2
+471,cross-platform visual-exoskeletons,2
+472,visual-exoskeletons low-cost,2
+473,low-cost dexterous,2
+474,dexterous teleoperation,2
+475,open-television teleoperation,2
+476,teleoperation immersive,2
+477,immersive active,2
+478,active visual,2
+479,visual feedback,2
+480,clone closed-loop,2
+481,closed-loop whole-body,2
+482,teleoperation long-horizon,2
+483,long-horizon tasks,2
+484,robomind benchmark,2
+485,benchmark multi-embodiment,2
+486,everyday comprehensive,2
+487,comprehensive dataset,2
+488,dataset open-world,2
+489,open-world manipulation,2
+490,multimodal,2
+491,anybody benchmarking,2
+492,benchmarking large,2
+493,large multimodal,2
+494,x-embodiment dataset,2
+495,x-magical cross-embodiment,2
+496,cross-embodiment imitation,2
+497,imitation goal-conditioned,2
+498,goal-conditioned language-conditioned,2
+499,language-conditioned tasks,2
+500,cage role,2
+501,role morphology,2
+502,morphology graph-based,2
+503,graph-based incompatible,2
+504,unilegs unified,2
+505,unified legged,2
+506,locomotion policy,2
+507,diverse morphologies,2
+508,neural,2
+509,nervenet structured,2
+510,structured policy,2
+511,policy graph,2
+512,graph neural,2
+513,neural networks,2
+514,expressive whole-body,2
+515,hover versatile,2
+516,versatile neural,2
+517,neural whole-body,2
+518,motion tracking,2
+519,tracking whole-body,2
+520,leverb whole-body,2
+521,whole-body latent,2
+522,latent vision-language,2
+523,vision-language instruction,2
+524,slac simulation-pretrained,2
+525,simulation-pretrained latent,2
+526,action space,2
+527,space whole-body,2
+528,whole-body real-world,2
+529,real-world reinforcement,2
+530,opt2skill imitating,2
+531,imitating dynamically-feasible,2
+532,dynamically-feasible whole-body,2
+533,whole-body trajectories,2
+534,trajectories versatile,2
+535,versatile loco-manipulation,2
+536,teleoperation survey,2
+537,survey behavior,2
+538,foundation next-generation,2
+539,next-generation whole-body,2
+540,foundation robotics,2
+541,robotics applications,2
+542,applications challenges,2
+543,challenges future,2
+544,survey vision-language-action,2
+545,vision-language-action manipulation,2
+546,understanding transfer,2
+547,transfer gradient-based,2
+548,gradient-based meta-learning,2
+549,meta-learning techniques,2
+550,docs,2
+551,docs phd-paper-reading-method,2
+552,docs reading-packs,2
+553,paper title,2
+554,sequence,2
+555,open-vocabulary,2
+556,foundational,2
+557,embodiment-agnostic,2
+558,learned,2
+559,embeddings,2
+560,explicit,2
+561,graphs,2
+562,aligned,2
+563,state,2
+564,formulation,2
+565,encoder-decoder,2
+566,urma,2
+567,core,2
+568,alignment,2
+569,tokens,2
+570,morphology-conditioned,2
+571,joint,2
+572,multi-gait,2
+573,contact-centric,2
+574,you,2
+575,want,2
+576,pose,2
+577,diversity,2
+578,large-scale,2
+579,architecture,2
+580,generalized,2
+581,dynamics-aware,2
+582,open x-embodiment rt-x,1
+583,crossformer,1
+584,scaling cross-embodied crossformer,1
+585,manipulator-independent representations visual,1
+586,representations visual imitation,1
+587,structure-aware,1
+588,structure-aware transformer policy,1
+589,transformer policy inhomogeneous,1
+590,policy inhomogeneous multi-task,1
+591,inhomogeneous multi-task reinforcement,1
+592,policy human policy,1
+593,xhugwbc,1
+594,whole-body pretraining fast,1
+595,pretraining fast adaptation,1
+596,morphology-aware policy transfer,1
+597,policy transfer embodiments,1
+598,cei,1
+599,unified latent space,1
+600,latent space cross-embodiment,1
+601,lap,1
+602,contact-conditioned,1
+603,contact-conditioned locomotion policies,1
+604,cross-hand latent representation,1
+605,latent representation vision-language-action,1
+606,object-centric dexterous manipulation,1
+607,dexterous manipulation human,1
+608,manipulation human motion,1
+609,human motion data,1
+610,dexformer,1
+611,dexformer cross-embodied dexterous,1
+612,cross-embodied dexterous manipulation,1
+613,dexterous manipulation history-conditioned,1
+614,manipulation history-conditioned transformer,1
+615,cedex,1
+616,cedex cross-embodiment dexterous,1
+617,grasp generation scale,1
+618,generation scale human-like,1
+619,scale human-like contact,1
+620,human-like contact representations,1
+621,humanoid-x,1
+622,uh-1,1
+623,scaling laws locomotion,1
+624,multi-embodiment locomotion scale,1
+625,locomotion scale extreme,1
+626,scale extreme randomization,1
+627,mcarl,1
+628,quadrupedal,1
+629,mcarl morphology-control-aware reinforcement,1
+630,morphology-control-aware reinforcement generalizable,1
+631,reinforcement generalizable quadrupedal,1
+632,generalizable quadrupedal locomotion,1
+633,multi-loco,1
+634,augmented,1
+635,multi-loco unifying multi-embodiment,1
+636,unifying multi-embodiment legged,1
+637,multi-embodiment legged locomotion,1
+638,legged locomotion reinforcement,1
+639,locomotion reinforcement augmented,1
+640,reinforcement augmented diffusion,1
+641,gcnt,1
+642,gcnt graph-based transformer,1
+643,graph-based transformer policies,1
+644,transformer policies morphology-agnostic,1
+645,policies morphology-agnostic reinforcement,1
+646,leveraging,1
+647,body transformer leveraging,1
+648,transformer leveraging policy,1
+649,articulated-body,1
+650,dynamics,1
+651,improves,1
+652,articulated-body dynamics network,1
+653,dynamics network improves,1
+654,network improves policy,1
+655,improves policy diverse,1
+656,hands,1
+657,cross-embodied co-design dexterous,1
+658,co-design dexterous hands,1
+659,problem,1
+660,formulations,1
+661,taxonomy,1
+662,problem formulations transfer,1
+663,formulations transfer taxonomy,1
+664,foundations,1
+665,distillation,1
+666,policy transfer distillation,1
+667,transfer distillation fast,1
+668,distillation fast adaptation,1
+669,representation transfer skill,1
+670,transfer skill abstraction,1
+671,skill abstraction world,1
+672,human-to-robot,1
+673,human-to-robot human-prior transfer,1
+674,cross-embodiment locomotion whole-body,1
+675,cross-embodiment manipulation visual,1
+676,manipulation visual imitation,1
+677,visual imitation retrieval,1
+678,retargeting,1
+679,unified interfaces latent,1
+680,interfaces latent actions,1
+681,latent actions retargeting,1
+682,teleoperation data collection,1
+683,benchmarks,1
+684,morphology-aware scaling laws,1
+685,auxiliary,1
+686,baselines,1
+687,strong auxiliary baselines,1
+688,surveys,1
+689,overviews,1
+690,year,1
+691,index,1
+692,read,1
+693,phd,1
+694,packs,1
+695,contribution,1
+696,guide,1
+697,open x-embodiment datasets,1
+698,x-embodiment datasets rt-x,1
+699,aviation,1
+700,scaling cross-embodied policy,1
+701,cross-embodied policy manipulation,1
+702,policy manipulation navigation,1
+703,navigation locomotion aviation,1
+704,extreme cross-embodiment manipulation,1
+705,cross-embodiment manipulation navigation,1
+706,human-centric,1
+707,being-h0 scaling human-centric,1
+708,scaling human-centric cross-embodiment,1
+709,human-centric cross-embodiment generalization,1
+710,octo open-source generalist,1
+711,open-source generalist policy,1
+712,exploring,1
+713,limit,1
+714,rdt2 exploring scaling,1
+715,exploring scaling limit,1
+716,scaling limit umi,1
+717,limit umi data,1
+718,umi data zero-shot,1
+719,data zero-shot cross-embodiment,1
+720,zero-shot cross-embodiment generalization,1
+721,x-vla,1
+722,agent,1
+723,x-vla generalist agent,1
+724,generalist agent cross-embodiment,1
+725,agent cross-embodiment pre-training,1
+726,gr00t open foundation,1
+727,open foundation generalist,1
+728,bringing,1
+729,physical,1
+730,gemini robotics bringing,1
+731,robotics bringing physical,1
+732,bringing physical world,1
+733,few-shot,1
+734,h-zero cross-humanoid locomotion,1
+735,cross-humanoid locomotion pretraining,1
+736,locomotion pretraining enables,1
+737,pretraining enables few-shot,1
+738,enables few-shot transfer,1
+739,scalable whole-body cross-humanoid,1
+740,whole-body cross-humanoid locomotion,1
+741,any2any cross-embodiment transfer,1
+742,cross-embodiment transfer whole-body,1
+743,transfer whole-body tracking,1
+744,worlds,1
+745,policy worlds scalable,1
+746,worlds scalable unified,1
+747,scalable unified policy,1
+748,unified policy versatile,1
+749,policy versatile locomotion,1
+750,get,1
+751,recovery,1
+752,get morphologies zero-shot,1
+753,morphologies zero-shot recovery,1
+754,zero-shot recovery unified,1
+755,recovery unified policy,1
+756,omni-bodied,1
+757,locoformer generalist omni-bodied,1
+758,generalist omni-bodied locomotion,1
+759,omni-bodied locomotion long-context,1
+760,locomotion long-context adaptation,1
+761,inverse,1
+762,xirl cross-embodiment inverse,1
+763,cross-embodiment inverse reinforcement,1
+764,xskill skill discovery,1
+765,uniskill imitating human,1
+766,imitating human videos,1
+767,human videos cross-embodiment,1
+768,videos cross-embodiment skill,1
+769,cross-embodiment skill representations,1
+770,execution,1
+771,retrieval execution everyday,1
+772,execution everyday human,1
+773,everyday human videos,1
+774,decomposed,1
+775,adversarial,1
+776,demonstration,1
+777,behavior-skill transfer decomposed,1
+778,transfer decomposed adversarial,1
+779,decomposed adversarial demonstration,1
+780,imitate,1
+781,whirl imitate human,1
+782,imitate human videos,1
+783,human videos wild,1
+784,wearable,1
+785,humanoidexo scalable whole-body,1
+786,scalable whole-body manipulation,1
+787,whole-body manipulation wearable,1
+788,manipulation wearable exoskeleton,1
+789,humanx agile generalizable,1
+790,agile generalizable interaction,1
+791,generalizable interaction skills,1
+792,interaction skills human,1
+793,skills human videos,1
+794,natural,1
+795,zerowbc natural visuomotor,1
+796,natural visuomotor directly,1
+797,visuomotor directly human,1
+798,directly human egocentric,1
+799,human egocentric video,1
+800,humanplus,1
+801,shadowing,1
+802,humans,1
+803,humanplus shadowing imitation,1
+804,shadowing imitation humans,1
+805,omnih2o,1
+806,omnih2o universal dexterous,1
+807,universal dexterous human-to-humanoid,1
+808,dexterous human-to-humanoid whole-body,1
+809,human-to-humanoid whole-body teleoperation,1
+810,hugwbc unified whole-body,1
+811,unified whole-body controller,1
+812,bfm-zero,1
+813,behavioral,1
+814,unsupervised,1
+815,bfm-zero promptable behavioral,1
+816,promptable behavioral foundation,1
+817,behavioral foundation unsupervised,1
+818,foundation unsupervised reinforcement,1
+819,dynamic,1
+820,robust,1
+821,bipedal,1
+822,reinforcement versatile dynamic,1
+823,versatile dynamic robust,1
+824,dynamic robust bipedal,1
+825,robust bipedal locomotion,1
+826,physically-grounded,1
+827,phuma physically-grounded locomotion,1
+828,physically-grounded locomotion dataset,1
+829,x-sim cross-embodiment object-centric,1
+830,cross-embodiment object-centric simulation,1
+831,egomimic scaling imitation,1
+832,scaling imitation egocentric,1
+833,imitation egocentric video,1
+834,generalizable manipulation improved,1
+835,manipulation improved diffusion,1
+836,improved diffusion policies,1
+837,morphology-awareness,1
+838,unimorphgrasp diffusion morphology-awareness,1
+839,diffusion morphology-awareness cross-embodiment,1
+840,morphology-awareness cross-embodiment dexterous,1
+841,cross-embodiment interface unifying,1
+842,interface unifying representation,1
+843,unifying representation world,1
+844,action diffusion cross-embodiment,1
+845,diffusion cross-embodiment manipulation,1
+846,single,1
+847,one-policy-fits-all manipulation policy,1
+848,manipulation policy single,1
+849,policy single generalist,1
+850,single generalist policy,1
+851,language-action pre-training enables,1
+852,pre-training enables zero-shot,1
+853,enables zero-shot cross-embodiment,1
+854,zero-shot cross-embodiment transfer,1
+855,mirage,1
+856,mirage cross-embodiment zero-shot,1
+857,cross-embodiment zero-shot policy,1
+858,zero-shot policy transfer,1
+859,policy transfer visual,1
+860,transfer visual adaptation,1
+861,twist,1
+862,teleoperated,1
+863,twist teleoperated whole-body,1
+864,teleoperated whole-body imitation,1
+865,twist2,1
+866,portable,1
+867,holistic,1
+868,twist2 scalable portable,1
+869,scalable portable holistic,1
+870,portable holistic data,1
+871,holistic data collection,1
+872,homie,1
+873,isomorphic,1
+874,cockpit,1
+875,homie loco-manipulation isomorphic,1
+876,loco-manipulation isomorphic exoskeleton,1
+877,isomorphic exoskeleton cockpit,1
+878,trill,1
+879,deep,1
+880,trill deep imitation,1
+881,deep imitation loco-manipulation,1
+882,imitation loco-manipulation human,1
+883,loco-manipulation human teleoperation,1
+884,ace,1
+885,cross-platform,1
+886,visual-exoskeletons,1
+887,low-cost,1
+888,ace cross-platform visual-exoskeletons,1
+889,cross-platform visual-exoskeletons low-cost,1
+890,visual-exoskeletons low-cost dexterous,1
+891,low-cost dexterous teleoperation,1
+892,open-television,1
+893,immersive,1
+894,active,1
+895,feedback,1
+896,open-television teleoperation immersive,1
+897,teleoperation immersive active,1
+898,immersive active visual,1
+899,active visual feedback,1
+900,clone,1
+901,closed-loop,1
+902,long-horizon,1
+903,clone closed-loop whole-body,1
+904,closed-loop whole-body teleoperation,1
+905,whole-body teleoperation long-horizon,1
+906,teleoperation long-horizon tasks,1
+907,robomind benchmark multi-embodiment,1
+908,comprehensive,1
+909,everyday comprehensive dataset,1
+910,comprehensive dataset open-world,1
+911,dataset open-world manipulation,1
+912,benchmarking,1
+913,large,1
+914,anybody benchmarking large,1
+915,benchmarking large multimodal,1
+916,open x-embodiment dataset,1
+917,x-magical,1
+918,goal-conditioned,1
+919,language-conditioned,1
+920,x-magical cross-embodiment imitation,1
+921,cross-embodiment imitation goal-conditioned,1
+922,imitation goal-conditioned language-conditioned,1
+923,goal-conditioned language-conditioned tasks,1
+924,role,1
+925,body cage role,1
+926,cage role morphology,1
+927,role morphology graph-based,1
+928,morphology graph-based incompatible,1
+929,unilegs unified legged,1
+930,unified legged locomotion,1
+931,legged locomotion policy,1
+932,locomotion policy diverse,1
+933,policy diverse morphologies,1
+934,networks,1
+935,nervenet structured policy,1
+936,structured policy graph,1
+937,policy graph neural,1
+938,graph neural networks,1
+939,expressive,1
+940,hover,1
+941,hover versatile neural,1
+942,versatile neural whole-body,1
+943,neural whole-body controller,1
+944,motion tracking whole-body,1
+945,leverb,1
+946,vision-language,1
+947,instruction,1
+948,leverb whole-body latent,1
+949,whole-body latent vision-language,1
+950,latent vision-language instruction,1
+951,slac,1
+952,simulation-pretrained,1
+953,slac simulation-pretrained latent,1
+954,simulation-pretrained latent action,1
+955,latent action space,1
+956,action space whole-body,1
+957,space whole-body real-world,1
+958,whole-body real-world reinforcement,1
+959,opt2skill,1
+960,dynamically-feasible,1
+961,trajectories,1
+962,opt2skill imitating dynamically-feasible,1
+963,imitating dynamically-feasible whole-body,1
+964,dynamically-feasible whole-body trajectories,1
+965,whole-body trajectories versatile,1
+966,trajectories versatile loco-manipulation,1
+967,next-generation,1
+968,survey behavior foundation,1
+969,behavior foundation next-generation,1
+970,foundation next-generation whole-body,1
+971,applications,1
+972,challenges,1
+973,future,1
+974,foundation robotics applications,1
+975,robotics applications challenges,1
+976,applications challenges future,1
+977,survey vision-language-action manipulation,1
+978,understanding,1
+979,gradient-based,1
+980,meta-learning,1
+981,techniques,1
+982,understanding transfer gradient-based,1
+983,transfer gradient-based meta-learning,1
+984,gradient-based meta-learning techniques,1
+985,phd-paper-reading-method,1
+986,reading-packs,1
+987,title,1
+988,tokenized,1
+989,default,1
+990,starting,1
+991,point,1
+992,chunked,1
+993,prediction,1
+994,practical,1
+995,broad,1
+996,families,1
+997,strongest,1
+998,traces,1
+999,umi-style,1
+1000,rvq,1
+1001,flow,1
+1002,matching,1
+1003,tests,1
+1004,far,1
+1005,scaled,1
+1006,push,1
+1007,deployment,1
+1008,modeling,1
+1009,industrial,1
+1010,becoming,1
+1011,skill-centric,1
+1012,video-conditioned,1
+1013,bridge,1
+1014,transformer-based,1
+1015,set,1
+1016,sequence-style,1
+1017,cautionary,1
+1018,automatically,1
+1019,improve,1
+1020,decomposition,1
+1021,humanoid-specific,1
+1022,exo-aligned,1
+1023,reduces,1
+1024,gap,1
+1025,time,1
+1026,video-to-humanoid,1
+1027,source,1
+1028,connects,1
+1029,perception,1
+1030,targets,1
+1031,conditioned,1
+1032,semantic,1
+1033,probably,1
+1034,closest,1
+1035,multi-humanoid,1
+1036,supports,1
+1037,shared-prior,1
+1038,adapter,1
+1039,thesis,1
+1040,direction,1
+1041,wbt,1
+1042,input,1
+1043,output,1
+1044,spaces,1
+1045,pretrained,1
+1046,specialists,1
+1047,small,1
+1048,fraction,1
+1049,full,1
+1050,training,1
+1051,compute,1
+1052,main,1
+1053,plans,1
+1054,adapters,1
+1055,prefix,1
+1056,tuning,1
+1057,uses,1
+1058,lightweight,1
+1059,embodiment-specific,1
+1060,context-based,1
+1061,kinematics,1
+1062,in-context,1
+1063,memory,1
+1064,support,1
+1065,world-centric,1
+1066,cleanest,1
+1067,interface-centric,1
+1068,topic,1
+1069,contrastive,1
+1070,clean,1
+1071,latent-control,1
+1072,platforms,1
+1073,why,1
+1074,easier,1
+1075,raw,1
+1076,geometry-aware,1
+1077,object,1
+1078,better,1
+1079,variable,1
+1080,opens,1
+1081,path,1
+1082,language-like,1
+1083,condition,1
+1084,repository,1
+1085,cover,1
+1086,demonstrations,1
+1087,shared-policy,1
+1088,dexterous-hand,1
+1089,links,1
+1090,grasping,1
+1091,hand,1
+1092,kinematic,1
+1093,evaluating,1
+1094,because,1
+1095,prioritizes,1
+1096,physically,1
+1097,plausible,1
+1098,realistic,1
+1099,helps,1
+1100,stronger,1
+1101,evaluation,1
+1102,protocols,1
+1103,deciding,1
+1104,embodiment-aware,1
+1105,major,1
+1106,urma-line,1
+1107,pushed,1
+1108,further,1
+1109,conditioning,1
+1110,outside,1
+1111,zero-padded,1
+1112,normalized,1
+1113,observation,1
+1114,actor,1
+1115,unify,1
+1116,multiple,1
+1117,though,1
+1118,strict,1
+1119,unseen-embodiment,1
+1120,helpful,1
+1121,extend,1
+1122,work,1
+1123,broader,1
+1124,bipeds,1
+1125,graph-transformer,1
+1126,masked,1
+1127,attention,1
+1128,injected,1
+1129,articulated-body-dynamics-informed,1
+1130,promising,1
+1131,dynamics-grounded,1
+1132,structural,1
+1133,cross-robot,1
+1134,design-conditioned,1
+1135,extends,1
+1136,thinking,1
+1137,morphology-control,1
+1138,graph-structured,1
+1139,classic,1
+1140,historical,1
+1141,precursor,1

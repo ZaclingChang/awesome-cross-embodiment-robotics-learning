@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="700" viewBox="0 0 1500 700">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="54" font-size="28" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">Paper Year Distribution</text>
+<text x="40" y="84" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#475569">Based on the current structured paper matrix</text>
+<text x="244" y="150.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2018</text>
+<rect x="260" y="120" width="53" height="49" rx="8" fill="#2563eb"/>
+<text x="325" y="150.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">1</text>
+<text x="244" y="217.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2021</text>
+<rect x="260" y="187" width="160" height="49" rx="8" fill="#2563eb"/>
+<text x="432" y="217.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">3</text>
+<text x="244" y="284.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2022</text>
+<rect x="260" y="254" width="107" height="49" rx="8" fill="#2563eb"/>
+<text x="379" y="284.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">2</text>
+<text x="244" y="351.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2023</text>
+<rect x="260" y="321" width="53" height="49" rx="8" fill="#2563eb"/>
+<text x="325" y="351.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">1</text>
+<text x="244" y="418.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2023-2024</text>
+<rect x="260" y="388" width="53" height="49" rx="8" fill="#2563eb"/>
+<text x="325" y="418.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">1</text>
+<text x="244" y="485.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2024</text>
+<rect x="260" y="455" width="590" height="49" rx="8" fill="#2563eb"/>
+<text x="862" y="485.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">11</text>
+<text x="244" y="552.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2025</text>
+<rect x="260" y="522" width="1180" height="49" rx="8" fill="#2563eb"/>
+<text x="1452" y="552.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">22</text>
+<text x="244" y="619.5" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">2026</text>
+<rect x="260" y="589" width="804" height="49" rx="8" fill="#2563eb"/>
+<text x="1076" y="619.5" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">15</text>
+</svg>

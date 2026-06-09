@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="960" viewBox="0 0 1500 960">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="54" font-size="28" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">Paper Categories in the Seed Matrix</text>
+<text x="40" y="84" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#475569">Grouped by cross-embodiment research bucket</text>
+<text x="244" y="153.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Interface</text>
+<rect x="260" y="120" width="1180" height="54" rx="8" fill="#0f766e"/>
+<text x="1452" y="153.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">8</text>
+<text x="244" y="225.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Scaling</text>
+<rect x="260" y="192" width="1032" height="54" rx="8" fill="#0f766e"/>
+<text x="1304" y="225.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">7</text>
+<text x="244" y="297.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">General Foundation</text>
+<rect x="260" y="264" width="885" height="54" rx="8" fill="#0f766e"/>
+<text x="1157" y="297.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">6</text>
+<text x="244" y="369.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Cross Humanoid Control</text>
+<rect x="260" y="336" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="369.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="441.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Dataset Benchmark</text>
+<rect x="260" y="408" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="441.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="513.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Human To Humanoid</text>
+<rect x="260" y="480" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="513.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="585.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Manipulation Transfer</text>
+<rect x="260" y="552" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="585.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="657.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Morphology Aware</text>
+<rect x="260" y="624" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="657.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="729.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Policy Transfer</text>
+<rect x="260" y="696" width="737" height="54" rx="8" fill="#0f766e"/>
+<text x="1009" y="729.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">5</text>
+<text x="244" y="801.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Representation Transfer</text>
+<rect x="260" y="768" width="590" height="54" rx="8" fill="#0f766e"/>
+<text x="862" y="801.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">4</text>
+<text x="244" y="873.0" text-anchor="end" font-size="16" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#334155">Human To Robot</text>
+<rect x="260" y="840" width="147" height="54" rx="8" fill="#0f766e"/>
+<text x="419" y="873.0" font-size="15" font-family="Verdana, DejaVu Sans, Arial, sans-serif" fill="#0f172a">1</text>
+</svg>

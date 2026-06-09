@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="803.5" y="481.1" font-size="76.0" fill="rgb(57, 146, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 803.5 481.1)">transfer</text>
+<text x="636.5" y="469.9" font-size="71.7" fill="rgb(57, 149, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">policy</text>
+<text x="789.4" y="268.8" font-size="65.2" fill="rgb(57, 151, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">cross-embodiment</text>
+<text x="820.9" y="692.2" font-size="63.0" fill="rgb(57, 154, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">locomotion</text>
+<text x="1042.2" y="487.1" font-size="56.5" fill="rgb(57, 156, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">manipulation</text>
+<text x="630.7" y="536.6" font-size="44.5" fill="rgb(58, 159, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">whole-body</text>
+<text x="926.0" y="430.0" font-size="39.1" fill="rgb(58, 161, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">scaling</text>
+<text x="703.4" y="408.7" font-size="39.1" fill="rgb(58, 164, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">human</text>
+<text x="932.9" y="535.7" font-size="31.5" fill="rgb(58, 166, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">interface</text>
+<text x="606.0" y="641.1" font-size="30.4" fill="rgb(58, 169, 229)" font-weight="700" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 606.0 641.1)">dexterous</text>
+<text x="964.8" y="570.3" font-size="29.4" fill="rgb(58, 171, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">representation</text>
+<text x="911.5" y="392.3" font-size="29.4" fill="rgb(58, 173, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">dataset</text>
+<text x="678.1" y="369.0" font-size="28.3" fill="rgb(58, 176, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">foundation</text>
+<text x="708.0" y="577.2" font-size="28.3" fill="rgb(59, 178, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">action</text>
+<text x="922.1" y="602.8" font-size="28.3" fill="rgb(59, 181, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">benchmark</text>
+<text x="926.8" y="359.9" font-size="27.2" fill="rgb(59, 183, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">imitation</text>
+<text x="640.1" y="331.4" font-size="26.1" fill="rgb(59, 186, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">multi-embodiment</text>
+<text x="717.5" y="609.4" font-size="25.0" fill="rgb(59, 188, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">latent</text>
+<text x="570.4" y="633.8" font-size="25.0" fill="rgb(59, 191, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 570.4 633.8)">generalist</text>
+<text x="885.8" y="330.9" font-size="25.0" fill="rgb(59, 193, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">paper</text>
+<text x="694.4" y="643.1" font-size="22.8" fill="rgb(59, 195, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">morphology</text>
+<text x="923.3" y="632.0" font-size="21.8" fill="rgb(60, 198, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">adaptation</text>
+<text x="602.3" y="405.4" font-size="21.8" fill="rgb(60, 200, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">unified</text>
+<text x="1000.3" y="329.2" font-size="20.7" fill="rgb(60, 203, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">reinforcement</text>
+<text x="1026.4" y="395.4" font-size="20.7" fill="rgb(60, 205, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">diffusion</text>
+<text x="1036.0" y="440.8" font-size="20.7" fill="rgb(60, 207, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">skill</text>
+<text x="789.9" y="221.4" font-size="20.7" fill="rgb(60, 210, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">shared</text>
+<text x="1046.2" y="536.4" font-size="20.7" fill="rgb(60, 212, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">aware</text>
+<text x="1033.1" y="367.4" font-size="19.6" fill="rgb(60, 215, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">visual</text>
+<text x="797.6" y="739.0" font-size="19.6" fill="rgb(61, 217, 229)" font-weight="600" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">morphology-aware</text>
+<text x="795.8" y="760.5" font-size="18.5" fill="rgb(61, 219, 229)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">cross-embodied</text>
+<text x="552.9" y="383.1" font-size="18.5" fill="rgb(61, 222, 229)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">policies</text>
+<text x="652.1" y="606.1" font-size="18.5" fill="rgb(61, 224, 229)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">data</text>
+<text x="1032.3" y="417.9" font-size="18.5" fill="rgb(61, 226, 229)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">grasp</text>
+<text x="790.7" y="199.9" font-size="17.4" fill="rgb(61, 229, 229)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">representations</text>
+<text x="894.5" y="222.4" font-size="17.4" fill="rgb(61, 229, 227)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">transformer</text>
+<text x="1021.3" y="605.4" font-size="17.4" fill="rgb(61, 229, 225)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">space</text>
+<text x="685.4" y="223.2" font-size="17.4" fill="rgb(62, 229, 222)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">generation</text>
+<text x="1054.9" y="628.2" font-size="17.4" fill="rgb(62, 229, 220)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">teleoperation</text>
+<text x="1034.0" y="647.5" font-size="17.4" fill="rgb(62, 229, 217)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">zero-shot</text>
+<text x="929.1" y="736.6" font-size="17.4" fill="rgb(62, 229, 215)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">directly</text>
+<text x="639.6" y="570.7" font-size="17.4" fill="rgb(62, 229, 213)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">vla</text>
+<text x="658.5" y="737.7" font-size="17.4" fill="rgb(62, 229, 210)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">important</text>
+<text x="565.8" y="361.2" font-size="17.4" fill="rgb(62, 229, 208)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">useful</text>
+<text x="791.7" y="180.0" font-size="16.3" fill="rgb(63, 229, 206)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">open x-embodiment</text>
+<text x="538.9" y="405.4" font-size="16.3" fill="rgb(63, 229, 203)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">body</text>
+<text x="793.7" y="780.3" font-size="16.3" fill="rgb(63, 229, 201)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">multi-embodiment locomotion</text>
+<text x="936.5" y="203.4" font-size="16.3" fill="rgb(63, 229, 197)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">latent action</text>
+<text x="527.8" y="592.4" font-size="16.3" fill="rgb(63, 229, 194)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">motion</text>
+<text x="1095.5" y="435.7" font-size="16.3" fill="rgb(63, 229, 192)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">legged</text>
+<text x="679.3" y="758.9" font-size="16.3" fill="rgb(64, 229, 185)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">scalable</text>
+<text x="907.3" y="760.0" font-size="16.3" fill="rgb(64, 229, 183)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">videos</text>
+<text x="678.9" y="204.3" font-size="15.3" fill="rgb(64, 229, 171)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">behavior</text>
+<text x="1074.1" y="606.4" font-size="15.3" fill="rgb(65, 229, 167)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">strong</text>
+<text x="502.7" y="452.3" font-size="15.3" fill="rgb(65, 229, 162)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 502.7 452.3)">tracking</text>
+<text x="1018.1" y="670.8" font-size="15.3" fill="rgb(65, 229, 158)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">key</text>
+<text x="539.0" y="618.6" font-size="14.2" fill="rgb(65, 229, 155)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">open</text>
+<text x="1089.1" y="377.8" font-size="14.2" fill="rgb(70, 229, 83)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 1089.1 377.8)">versatile</text>
+<text x="513.9" y="363.8" font-size="14.2" fill="rgb(70, 229, 79)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">video</text>
+<text x="1092.3" y="551.1" font-size="14.2" fill="rgb(77, 229, 71)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 1092.3 551.1)">baseline</text>
+<text x="504.7" y="568.4" font-size="13.1" fill="rgb(89, 229, 71)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">x-embodiment</text>
+<text x="1014.4" y="349.0" font-size="13.1" fill="rgb(126, 229, 73)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">wild</text>
+<text x="643.8" y="589.2" font-size="12.0" fill="rgb(168, 229, 76)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">rt-x</text>
+<text x="542.3" y="649.2" font-size="12.0" fill="rgb(173, 229, 76)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">octo</text>
+<text x="961.1" y="219.7" font-size="12.0" fill="rgb(229, 229, 79)" font-weight="500" font-family="Verdana, DejaVu Sans, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">run</text>
+</svg>
