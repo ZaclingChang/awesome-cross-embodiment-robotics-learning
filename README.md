@@ -1,5 +1,7 @@
 # Awesome Cross-Embodiment Robotics Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Focus](https://img.shields.io/badge/focus-cross--embodiment%20robotics-success) ![Seed Papers](https://img.shields.io/badge/seed%20papers-50%2B-blue) ![Status](https://img.shields.io/badge/status-actively%20curated-brightgreen)
 
+![Cross-Embodiment Robotics Learning cover](assets/cover.png)
+
 An awesome list for **cross-embodiment robotics learning**.
 
 This repository covers research on:
